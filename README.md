@@ -1,2 +1,18 @@
-# CarePulse
 A healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and complex forms and SMS notifications.
+
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
